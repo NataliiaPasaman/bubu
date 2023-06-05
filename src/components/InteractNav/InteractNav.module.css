@@ -1,0 +1,25 @@
+.interactList {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.interactItem:not(:last-child) {
+    margin-right: 20px;
+}
+
+.btnInteract {
+    cursor: pointer;
+
+    padding: 0;
+    background-color: transparent;
+    border: none;
+
+    transform: scale(1);
+    transition: transform 250ms ease-in;
+}
+
+.btnInteract:hover,
+.btnInteract:focus {
+    transform: scale(1.05);
+}
