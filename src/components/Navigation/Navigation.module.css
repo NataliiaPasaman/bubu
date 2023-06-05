@@ -1,0 +1,102 @@
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.navContainer {
+    composes: box;
+    justify-content: space-between
+}
+
+.catalogBox {
+    composes: box;
+
+    padding: 30px;
+    margin-bottom: 40px;
+    width: 174px;
+    /* height: 79px; */
+
+    background-color: #FFEAF1;
+    color: #000000;
+
+    border-radius: 20px;
+    border-color: transparent;
+}
+
+.menu {
+    margin-right: 10px;
+
+    cursor: pointer;
+
+    padding: 0;
+    background-color: transparent;
+    border: none;
+
+    transform: scale(1);
+    transition: transform 250ms ease-in;
+}
+
+.catalog {
+    font-family: 'Comfortaa';
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 1.12;
+
+    text-transform: uppercase;
+}
+
+.mainNav_list {
+    position: relative;
+    padding-bottom: 80px;
+}
+
+.mainNav_item:not(:last-child) {
+    margin-bottom: 30px;
+}
+
+.mainNav_item:last-child::after {
+    content: "";
+    position: absolute;
+    bottom: 40px;
+    left: 0px;
+
+    display: block;
+    width: 234px;
+    height: 0px;
+
+    border: 1px solid #FFC5D6;
+}
+
+.navLink {
+    color: #FFFFFF;
+    font-family: 'Comfortaa';
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 1.13;
+}
+
+.tel {
+    composes: catalog;
+    color: #FFFFFF;
+}
+
+.logo {
+    margin-left: 10px;
+}
+
+.authBox {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.authLink {
+    margin-left: 10px;
+    color: #FFFFFF;
+    font-family: 'Comfortaa';
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.13;
+    text-decoration-line: underline;
+}
