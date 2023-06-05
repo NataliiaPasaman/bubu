@@ -1,0 +1,15 @@
+.userBox {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.user {
+    margin-left: 10px;
+    color: #FFFFFF;
+    font-family: 'Comfortaa';
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.13;
+    text-decoration-line: underline;
+}

@@ -1,0 +1,41 @@
+.languages_list {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 30px;
+}
+
+.lang_item:first-child {
+    margin-right: 18px;
+}
+
+.lang {
+    color: #FFFFFF;
+    font-family: 'Comfortaa';
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 1.13;
+}
+
+.lang_ru {
+    color: #FFFFFF;
+    font-family: 'Comfortaa';
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 1.13;
+    border-bottom: 1px solid white;
+}
+
+.lang::after {
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 38px;
+
+    display: block;
+    width: 0px;
+    height: 15px;
+
+    border: 1px solid #FFFFFF;
+}
