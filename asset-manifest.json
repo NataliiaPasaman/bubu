@@ -1,13 +1,47 @@
 {
   "files": {
-    "main.css": "/NataliiaPasaman/bubu/static/css/main.7acaea2f.css",
-    "main.js": "/NataliiaPasaman/bubu/static/js/main.e64006c2.js",
+    "main.css": "/NataliiaPasaman/bubu/static/css/main.93d63d64.css",
+    "main.js": "/NataliiaPasaman/bubu/static/js/main.76e73837.js",
+    "static/js/680.5bdb1ba6.chunk.js": "/NataliiaPasaman/bubu/static/js/680.5bdb1ba6.chunk.js",
+    "static/css/133.fb6a5e4a.chunk.css": "/NataliiaPasaman/bubu/static/css/133.fb6a5e4a.chunk.css",
+    "static/js/133.be2ab1a0.chunk.js": "/NataliiaPasaman/bubu/static/js/133.be2ab1a0.chunk.js",
+    "static/media/logo@2x.png": "/NataliiaPasaman/bubu/static/media/logo@2x.2fd924f512b4ec4a5c38.png",
+    "static/media/gold_wave@2x.png": "/NataliiaPasaman/bubu/static/media/gold_wave@2x.675b2ae51d79eb4c33e9.png",
+    "static/media/pink_wave@2x.png": "/NataliiaPasaman/bubu/static/media/pink_wave@2x.60566fa2433e27142497.png",
+    "static/media/peachy_wave@2x.png": "/NataliiaPasaman/bubu/static/media/peachy_wave@2x.39a0d3c7d699c0e33d8b.png",
+    "static/media/logo@2x.webp": "/NataliiaPasaman/bubu/static/media/logo@2x.9bd7981c9ef0ad2c8209.webp",
+    "static/media/wave@2x.png": "/NataliiaPasaman/bubu/static/media/wave@2x.48e1f8e54cc9e8da6542.png",
+    "static/media/gold_wave@2x.webp": "/NataliiaPasaman/bubu/static/media/gold_wave@2x.9b4292c7f86ffbbd66cd.webp",
+    "static/media/peachy_wave@2x.webp": "/NataliiaPasaman/bubu/static/media/peachy_wave@2x.a86e336a0569826c4a70.webp",
+    "static/media/pink_wave@2x.webp": "/NataliiaPasaman/bubu/static/media/pink_wave@2x.83cae4df1f87067be02e.webp",
+    "static/media/wave@2x.webp": "/NataliiaPasaman/bubu/static/media/wave@2x.a3dd136e79629f720e88.webp",
+    "static/media/logo@1x.webp": "/NataliiaPasaman/bubu/static/media/logo@1x.15a5b58e14fca16c9c03.webp",
+    "static/media/peachy_wave@1x.webp": "/NataliiaPasaman/bubu/static/media/peachy_wave@1x.d290a49dd9849cacb490.webp",
+    "static/media/gold_wave@1x.webp": "/NataliiaPasaman/bubu/static/media/gold_wave@1x.d6837cbac5df1eb4f3a6.webp",
+    "static/media/pink_wave@1x.webp": "/NataliiaPasaman/bubu/static/media/pink_wave@1x.a4e9294f65b9054341b9.webp",
+    "static/media/wave@1x.webp": "/NataliiaPasaman/bubu/static/media/wave@1x.3860af732d06eb1699aa.webp",
+    "static/media/headerLogo@2x.webp": "/NataliiaPasaman/bubu/static/media/headerLogo@2x.632ec886a01d1859cb32.webp",
+    "static/media/comparison.svg": "/NataliiaPasaman/bubu/static/media/comparison.931bd7f8d2a7f50d54ce4bfbbdfbfc9d.svg",
+    "static/media/youtube.svg": "/NataliiaPasaman/bubu/static/media/youtube.2e84867f532805867017e95c28f6ffa0.svg",
     "index.html": "/NataliiaPasaman/bubu/index.html",
-    "main.7acaea2f.css.map": "/NataliiaPasaman/bubu/static/css/main.7acaea2f.css.map",
-    "main.e64006c2.js.map": "/NataliiaPasaman/bubu/static/js/main.e64006c2.js.map"
+    "static/media/headerLogo@1x.webp": "/NataliiaPasaman/bubu/static/media/headerLogo@1x.0d23aeb9b6f9816b1035.webp",
+    "static/media/cart.svg": "/NataliiaPasaman/bubu/static/media/cart.f4ed9cd53b13f217407ae2ae03c22a78.svg",
+    "static/media/facebook.svg": "/NataliiaPasaman/bubu/static/media/facebook.124261b6f40523bb1b19e8c496c76628.svg",
+    "static/media/like.svg": "/NataliiaPasaman/bubu/static/media/like.74ff1a33c4699d75ad172d783636927c.svg",
+    "static/media/user.svg": "/NataliiaPasaman/bubu/static/media/user.8c46017700577d172124e2450e9cba57.svg",
+    "static/media/search.svg": "/NataliiaPasaman/bubu/static/media/search.45c671cfe862bbfebd181722e4585fca.svg",
+    "static/media/instagram.svg": "/NataliiaPasaman/bubu/static/media/instagram.48f16a20ba2064e80fe7b6483e0e0782.svg",
+    "static/media/menu.svg": "/NataliiaPasaman/bubu/static/media/menu.a0202840fb6d12f60ef3e81a406fb429.svg",
+    "static/media/open.svg": "/NataliiaPasaman/bubu/static/media/open.9b1526611a7443a153270dc415cb1707.svg",
+    "static/media/close.svg": "/NataliiaPasaman/bubu/static/media/close.05383bd8b82e99c004adb587dea76a9d.svg",
+    "main.93d63d64.css.map": "/NataliiaPasaman/bubu/static/css/main.93d63d64.css.map",
+    "main.76e73837.js.map": "/NataliiaPasaman/bubu/static/js/main.76e73837.js.map",
+    "680.5bdb1ba6.chunk.js.map": "/NataliiaPasaman/bubu/static/js/680.5bdb1ba6.chunk.js.map",
+    "133.fb6a5e4a.chunk.css.map": "/NataliiaPasaman/bubu/static/css/133.fb6a5e4a.chunk.css.map",
+    "133.be2ab1a0.chunk.js.map": "/NataliiaPasaman/bubu/static/js/133.be2ab1a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.e64006c2.js"
+    "static/css/main.93d63d64.css",
+    "static/js/main.76e73837.js"
   ]
 }
